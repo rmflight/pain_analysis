@@ -1,0 +1,6 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+journal_files|object|ef46db3751d8e999||||||||||||||
+journal_process|function|bbd00d4d704101b8||||||||||||||
+all_barometer_exports|object|0d9b03453f36d7e3||||||||||||||
+process_barometric_data|function|4efa0a74ab2753e0||||||||||||||
+barometric_data|stem|fe56c89af2bbc8a1|31a51439eb11ebd4|28a18903b96894d3|-1094216021||t19176.8818053724s|4ddc8277f1d0c757|377235|rds|vector|||0.801||
